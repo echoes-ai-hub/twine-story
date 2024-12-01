@@ -1,0 +1,210 @@
+:: StoryTitle
+SCHOOL BULLYING
+
+
+:: StoryData
+{
+  "ifid": "BFA07CE4-AB30-4B6D-9FF5-DED54A96D206",
+  "format": "Harlowe",
+  "format-version": "3.3.9",
+  "start": "SCHOOL BULLYING",
+  "zoom": 1
+}
+
+
+:: Option 1: Confront the Bullies Directly {"position":"575,375","size":"100,100"}
+You: “//Hey! That wasn’t cool. You have no right to say that to me//.”
+
+Bully : “Oh, we were just joking. Don’t take it so seriously
+
+[[Option 1A: “It’s not a joke to me. You don’t know what I’m going through]]
+[[Option 1B: “I don’t think you’re funny. Leave me alone.”]]
+
+
+
+:: Option 1A: Ignore the comment and head to your next class. {"position":"762.5,500","size":"100,100"}
+''You feel proud for not letting them affect you, but the situation still stings.
+''
+
+Bully : “Don’t even think we didn’t see that, weirdo.”
+
+[[Option 2A: Say nothing, but keep your head up high.]]
+[[Option 2B: Talk to a teacher or trusted friend about what happened.]]
+
+
+
+
+:: Option 1A: “It’s not a joke to me. You don’t know what I’m going through {"position":"512.5,500","size":"100,100"}
+''The bully looks uncomfortable and may apologize. You feel empowered for standing up for yourself.''
+
+Bully : //“Whatever, freak. Get a life.”//
+
+[[Option 2A: “I don’t have time for your negativity.”]]
+[[Option 2B: “If you keep this up, I’ll report you.”]]
+
+
+
+:: Option 1A: “Thank you for helping. I just want to feel safe.” {"position":"762.5,750","size":"100,100"}
+ The situation is addressed quickly, and the bullying stops for now.
+
+
+[[Option 2A: “I’m glad you’re taking this seriously.”]]
+[[Option 2B: “I don’t want to make a big deal out of it.”]]
+
+
+:: Option 1B: Walk a little faster, trying to avoid any more confrontation. {"position":"887.5,500","size":"100,100"}
+''You feel like you’ve avoided the drama for now, but the situation isn’t fully resolved.''
+
+Bully : “Don’t even think we didn’t see that, weirdo.”
+
+[[Option 2A: Say nothing, but keep your head up high.]]
+[[Option 2B: Talk to a teacher or trusted friend about what happened.]]
+
+
+
+
+:: Option 1B: “I don’t think you’re funny. Leave me alone.” {"position":"637.5,500","size":"100,100"}
+''The bully laughs it off, but you gain confidence for standing up for yourself.''
+
+Bully : //“Whatever, freak. Get a life.”//
+
+[[Option 2A: “I don’t have time for your negativity.”]]
+[[Option 2B: “If you keep this up, I’ll report you.”]]
+
+
+
+:: Option 1B: “I’m scared they’ll do it again.” {"position":"887.5,750","size":"100,100"}
+
+''The teacher reassures you and offers additional support to make sure you feel safe.''
+​
+[[Option 2A: “I’m glad you’re taking this seriously.”]]
+[[Option 2B: “I don’t want to make a big deal out of it.”]]
+
+
+:: Option 2: Ignore the Bullies and Keep Walking {"position":"700,375","size":"100,100"}
+You: “I’m not going to let them get to me. I have better things to do.”
+
+Bully (Response 1): “Yeah, keep walking, loser.”
+
+[[Option 1A: Ignore the comment and head to your next class.]]
+
+[[Option 1B: Walk a little faster, trying to avoid any more confrontation.]]
+
+
+
+:: Option 2A: Say nothing, but keep your head up high. {"position":"700,625","size":"100,100"}
+''You walk away, your confidence growing despite their words.''
+
+(text-style:"mark")[Path B: Ignoring the Bullies (Option 2)]
+
+//If you choose to ignore the bullies:
+
+Outcome 1A: The bullying still hurts, but you decide to talk to someone later.
+Follow-Up: Eventually, you talk to a counselor or teacher, and the bullying is addressed.
+
+Outcome 1B: You feel proud for not engaging, but the situation isn’t fully resolved.
+Follow-Up: Over time, you become more confident, and the bullying lessens.
+//
+
+
+:: Option 2A: “I don’t have time for your negativity.” {"position":"450,625","size":"100,100"}
+''You walk away feeling proud, and the bully doesn’t push further.''
+
+(text-style:"mark")[Path A: Standing Up to the Bullies (Option 1)]
+
+If you confront the bullies directly:
+
+//Outcome 1A: The bully looks uncomfortable, may apologize, and you feel empowered.
+Follow-Up: The situation clears, and you learn the importance of speaking up.
+
+Outcome 1B: The bully laughs but backs off, and you feel stronger.
+Follow-Up: The bullying might continue, but now you know how to deal with it.
+//
+
+
+:: Option 2A: “I’m glad you’re taking this seriously.” {"position":"700,875","size":"100,100"}
+''The situation is handled swiftly, and the bullying stops.''
+
+(text-style:"mark")[Path C: Reporting to a Teacher (Option 3)]
+
+//If you report the bullying:
+
+Outcome 1A: The bullying stops with the teacher’s intervention.
+Follow-Up: You feel safer and more supported at school.
+
+Outcome 1B: The bullying continues, but the teacher puts measures in place to protect you.
+Follow-Up: The situation is resolved gradually, and you feel empowered to speak up more.
+//
+
+''"No matter how tough the situation may seem, remember: You are stronger than you think. Standing up for yourself, seeking help, and choosing to rise above negativity shows incredible courage. You're never alone, and there’s always someone ready to support you. Keep believing in yourself, and don't let anyone’s words define who you are. You're worthy of kindness and respect, always."''
+
+
+
+:: Option 2B: Talk to a teacher or trusted friend about what happened. {"position":"825,625","size":"100,100"}
+'' The teacher listens and helps you start addressing the bullying situation.''
+
+(text-style:"mark")[Path B: Ignoring the Bullies (Option 2)]
+
+//If you choose to ignore the bullies:
+
+Outcome 1A: The bullying still hurts, but you decide to talk to someone later.
+Follow-Up: Eventually, you talk to a counselor or teacher, and the bullying is addressed.
+
+Outcome 1B: You feel proud for not engaging, but the situation isn’t fully resolved.
+Follow-Up: Over time, you become more confident, and the bullying lessens.
+//
+
+
+:: Option 2B: “I don’t want to make a big deal out of it.” {"position":"825,875","size":"100,100"}
+''The teacher encourages you to speak up more if it happens again, making you feel supported.''
+
+(text-style:"mark")[Path C: Reporting to a Teacher (Option 3)]
+
+//If you report the bullying:
+
+Outcome 1A: The bullying stops with the teacher’s intervention.
+Follow-Up: You feel safer and more supported at school.
+
+Outcome 1B: The bullying continues, but the teacher puts measures in place to protect you.
+Follow-Up: The situation is resolved gradually, and you feel empowered to speak up more.
+//
+
+''"No matter how tough the situation may seem, remember: You are stronger than you think. Standing up for yourself, seeking help, and choosing to rise above negativity shows incredible courage. You're never alone, and there’s always someone ready to support you. Keep believing in yourself, and don't let anyone’s w
+
+
+:: Option 2B: “If you keep this up, I’ll report you.” {"position":"575,625","size":"100,100"}
+''The bully gets angry but backs off, and you feel safer for now.''
+
+(text-style:"mark")[Path A: Standing Up to the Bullies (Option 1)]
+
+If you confront the bullies directly:
+
+//Outcome 1A: The bully looks uncomfortable, may apologize, and you feel empowered.
+Follow-Up: The situation clears, and you learn the importance of speaking up.
+
+Outcome 1B: The bully laughs but backs off, and you feel stronger.
+Follow-Up: The bullying might continue, but now you know how to deal with it.
+//
+
+
+:: Option 3: Report the Bullying to a Teacher or Counselor {"position":"825,375","size":"100,100"}
+//You: “I’ve been hearing these comments from a few students, and it’s making me feel really uncomfortable. Can you help?”
+//
+Teacher : “I’m really sorry to hear that. Let’s make sure this stops. I’ll speak with the students involved.”
+
+[[Option 1A: “Thank you for helping. I just want to feel safe.”]]
+[[Option 1B: “I’m scared they’ll do it again.”]]
+
+
+
+:: SCHOOL BULLYING {"position":"700,250","size":"100,100"}
+''Scenario: Dealing with Bullying at School''
+
+//You’ve noticed that people have been making fun of you behind your back. They call you names like “weirdo” and “loser” when you walk by. It started as a few comments, but now it’s happening almost every day. Today, as you’re walking through the hallway, you overhear a group of students laughing and pointing at you. You hear one of them say, “Here comes the freak!”//
+
+''You feel hurt and embarrassed. What do you ? ''
+
+[[Option 1: Confront the Bullies Directly]]
+[[Option 2: Ignore the Bullies and Keep Walking]]
+[[Option 3: Report the Bullying to a Teacher or Counselor]]
+
